@@ -21,3 +21,17 @@ PATH_LAND = "data/land.txt"
 PATH_BASE_BLOCK = 'assets/models/block'
 PATH_BASE_TEXTURE = 'assets/textures/block.png'
 PATH_MAP = 'data/map.dat'
+
+PLAYER_COLOR = (1, 0.5, 0)
+PLAYER_SCALE = 0.3
+PLAYER_HORIZONTAL_POSITION = 180
+PLAYER_TURN_DEGREE = 5
+
+CAMERA_START_POSITION = (0, 0, 1.5)
+
+BLOCK_COLORS = [
+            (0.2, 0.2, 0.35, 1),
+            (0.2, 0.5, 0.2, 1),
+            (0.7, 0.2, 0.2, 1),
+            (0.5, 0.3, 0.0, 1)
+        ]
